@@ -28,8 +28,8 @@ export default function Home() {
         <p className="mt-2">📍 Freetown, Sierra Leone | 📧 ayodelehazeley@gmail.com | 📞 +232-78-369 816</p>
       </section>
 
-      <section className=\"p-8 max-w-5xl mx-auto\">
-  <h2 className=\"text-2xl font-bold mb-4\">Professional Summary</h2>
+      <section className="p-8 max-w-5xl mx-auto">
+  <h2 className="text-2xl font-bold mb-4">Professional Summary</h2>
   <p>
     Visionary digital leader with 8+ years’ experience in technology innovation, systems engineering, cloud computing, and cybersecurity. Proven record of driving digital transformation across fintech, telecoms, and humanitarian sectors. A CTO-level technologist with expertise in AI, DevOps, Blockchain, and Digital Infrastructure, with a passion for tech-for-good, impact-driven innovation, and resilient systems. Spearheaded projects for FirstBank, Orange, Project Last Mile, and Track Your Build; led teams on blockchain identity, ITSM automation, and AI-driven customer engagement. Committed to knowledge sharing and community tech growth through volunteering, mentoring, and leadership.
   </p>
