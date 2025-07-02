@@ -35,8 +35,9 @@ export default function Home() {
   </p>
 </section>
 
-$1
-        <ul className="space-y-6">
+<section className="p-8 max-w-5xl mx-auto">
+  <h2 className="text-2xl font-bold mb-4">Professional Experience</h2>
+  <ul className="space-y-6">
           <li><strong>Technology Project Consultant — GTMS Liberia (2025–Present):</strong> Led IT transformation projects, resilience planning, and ISO 27001 QMS support.</li>
           <li><strong>Chief Information Security Officer — First Bank Sierra Leone (2024):</strong> Delivered bank-wide infosec strategy, deployed SIEM, IAM, DevSecOps and built Tier 1 Data Centre.</li>
           <li><strong>Digital, Retention and Loyalty Lead — Orange Sierra Leone (2023):</strong> Automated segmentation with AI, led CX ISO certification, reduced churn by 18%.</li>
@@ -46,7 +47,7 @@ $1
           <li><strong>Systems Administrator — ASA Microfinance Sierra Leone (2016–2018):</strong> Managed server security, deployed AMBS App on tablets, introduced ticketing systems.</li>
           <li><strong>IT Operations Supervisor — TPMS/GTMS Sierra Leone (2014–2016):</strong> Modernized cargo registration systems and trained shipping agents.</li>
         </ul>
-      </section>
+</section>
 
       <section className="p-8 max-w-5xl mx-auto">
         <h2 className="text-2xl font-bold mb-4">Certifications</h2>
